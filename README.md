@@ -12,3 +12,11 @@ El sistema permitirá registrar estudiantes.
 
 Datos: código, nombre completo y carrera.
 
+VERSIÓN 3: REGISTRO DE NOTAS
+
+
+
+El sistema permitirá registrar calificaciones.
+
+Datos: código del estudiante, asignatura, nota y estado (aprobado/en proceso).
+
